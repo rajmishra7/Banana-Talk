@@ -22,7 +22,6 @@ body{
 nav{
     padding: 1rem 3rem;
     background-color: var(--primary-color);
-    width: 100%;
 }
 nav h1{
     color: var(--secondary-color);
